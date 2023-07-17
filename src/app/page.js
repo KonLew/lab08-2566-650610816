@@ -22,7 +22,6 @@ export default function Home() {
         {/* task */}
         <Task title="Sleep" />
       </div>
-
       {/* //footer section */}
       <Footer
         year="2023"

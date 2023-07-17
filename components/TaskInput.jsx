@@ -5,7 +5,7 @@ export const TaskInput = () => {
         className="form-control"
         placeholder="Insert a task here.."
       ></input>
-      <button className="btn btn-primary">Add</button>
+      <button className="btn btn-primary">Add </button>
     </div>
   );
 };
